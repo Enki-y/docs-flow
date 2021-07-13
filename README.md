@@ -14,7 +14,7 @@ description: 汇聚Flow中文资源的一份文档，希望能帮助更多中文
 
 #### 1. fork “[docs-flow](https://github.com/FlowFans/docs-flow)” Github 仓库： 
 
-{% embed url="https://github.com/FlowFans/docs-flow" %}
+(https://github.com/FlowFans/docs-flow)
 
  
 
